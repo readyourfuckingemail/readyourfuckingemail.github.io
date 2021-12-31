@@ -1,0 +1,12 @@
+body {
+  background-color: darkmagenta;
+  color: greenyellow;
+  font-family: Verdana;
+  text-align: center;
+  animation: background 3s infinite;
+}
+
+@keyframes background {
+  from: {background-color: darkmagenta;}
+  to: {background-color: steelblue;}
+}
