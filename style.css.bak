@@ -5,11 +5,6 @@ body {
   text-align: center;
   animation: background 3s infinite;
 }
-img {
-  width: auto ;
-  max-width: 100% ;
-  height: auto ;
-} 
 
 @keyframes background {
   from: {background-color: darkmagenta;}
